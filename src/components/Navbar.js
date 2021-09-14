@@ -8,7 +8,7 @@ const Navbar = () => {
     return (
         <div className="navbar">
             <h1>My Movie List</h1>
-            <p>Currenty you have {movies.length} movies to watch</p>
+            <p>Currently you have {movies.length} movies to watch</p>
         </div>
     );
 }
