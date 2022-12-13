@@ -1,13 +1,3 @@
-# Film Listem
-
-- Eğitim amaçlı kodlanmış basit bir React projesi.
-- Kullanılan teknolojiler ve özellikler: React (hooks, context), Redux (reducer), CSS, Firebase;
-
-İzlemek istediğiniz filmleri liste halinde not alabilir ve listelenen filmleri üzerlerine tıklayarak listeden silebilirsiniz. Listelediğiniz filmler yerel depolamada tutulur, bu sayede sayfayı yenilemeniz veya sekmeyi kapatmanız durumunda filmleriniz kaybolmaz.
-
-### Demo için [tıklayın](https://mymovielist-bcf54.web.app/).
-
-
 # My Movie List
 
 - A simple React project.
